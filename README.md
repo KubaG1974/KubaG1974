@@ -1,6 +1,7 @@
-O mnie
+<h1>O mnie</h1>
 
 Jestem Junior Full Stack Developerem, który z pasją tworzy aplikacje. Preferuję głównie backend, ale z równą łatwością radzę sobie również z frontedem. Moje zainteresowania w programowaniu skupiają się na budowaniu skalowalnych i wydajnych rozwiązań oraz na odkrywaniu nowych technologii.
+
 Języki i Technologie
 
     HTML
