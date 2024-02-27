@@ -4,6 +4,11 @@ Jestem Junior Full Stack Developerem, który z pasją tworzy aplikacje. Preferuj
 
 <h1>Języki i Technologie</h1>
 
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
     HTML
     CSS
     JavaScript
